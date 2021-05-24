@@ -1,0 +1,18 @@
+---
+
+dependencies: []
+
+galaxy_info:
+    role_name: helm
+    author: stefangenov
+    licence: "license (BSD, MIT)"
+    min_ansible_version: 2.9
+    description: Installs Helm - Kubernetes package manager
+    platforms:
+        - name: Ubuntu
+          versions:
+              - all
+    galaxy_tags:
+        - containers
+        - kubernetes
+        - helm
